@@ -1,0 +1,8 @@
+.container{
+     display: grid; 
+ background-color: rgb(34, 155, 115);
+     grid-template-rows: 250px auto
+     250px;
+}
+.header,.main,.footer{border: 4px solid gray;}
+p{background-color: antiquewhite; text-align: center;}
